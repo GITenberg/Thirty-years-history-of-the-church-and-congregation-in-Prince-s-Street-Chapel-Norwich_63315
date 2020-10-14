@@ -1,0 +1,27 @@
+_repo: Thirty-years-history-of-the-church-and-congregation-in-Prince-s-Street-Chapel-Norwich_63315
+_version: 0.0.1
+alternative_title: 30 years' history of the church and congregation in Prince's street
+  chapel, Norwich
+creator:
+  author:
+    agent_name: Alexander, John
+    birthdate: 1792
+    deathdate: 1868
+    gutenberg_agent_id: '52365'
+    url: http://www.gutenberg.org/2009/agents/52365
+description: ''
+gutenberg_issued: '2020-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Prince''s Street Chapel (Norwich, England) -- History'
+- GITenberg
+title: Thirty years' history of the church and congregation in Prince's Street Chapel,
+  Norwich
+url: http://www.gutenberg.org/ebooks/63315
