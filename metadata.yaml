@@ -1,7 +1,10 @@
 _repo: Thirty-years-history-of-the-church-and-congregation-in-Prince-s-Street-Chapel-Norwich_63315
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 30 years' history of the church and congregation in Prince's street
   chapel, Norwich
+covers:
+- cover_type: archival
+  image_path: 63315-h/images/cover.jpg
 creator:
   author:
     agent_name: Alexander, John
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '52365'
     url: http://www.gutenberg.org/2009/agents/52365
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63315#Thirty-years-history-of-the-church-and-congregation-in-Prince-s-Street-Chapel-Norwich
 gutenberg_issued: '2020-09-27'
 gutenberg_type: Text
 identifiers:
